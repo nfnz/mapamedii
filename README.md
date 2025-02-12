@@ -1,2 +1,2 @@
 # mapamedii
-Repozitář s daty pro Mapu médií
+Repozitář s daty pro Mapu médií.
