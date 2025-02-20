@@ -1,8 +1,8 @@
 # Data pro Mapu médií a MediaRating
 
-V tomto repozitáři najdete dva soubory JSON, které obsahují strojově zpracovatelné výsledky:
+V tomto repozitáři najdete dva soubory JSON, které obsahují strojově zpracovatelné výsledky projektu:
 
-- [Média Rating](https://www.nfnz.cz/rating-medii/)
+- [MédiaRating](https://www.nfnz.cz/rating-medii/)
 - [Mapa médií](https://www.nfnz.cz/mapa-medii/)
 
 ## Licence
