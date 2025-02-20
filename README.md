@@ -12,7 +12,7 @@ To znamená, že:
 
 1. **Můžete data volně používat, kopírovat, upravovat i sdílet** (včetně komerčních účelů).  
 2. **Podmínkou je vždy uvést autora/původce** datasetu – tedy Nadační fond nezávislé žurnalistiky (NFNZ), případně tento repozitář s odkazem.  
-3. **Prosíme o zachování odkazů na původní zdroje** (Média Rating, Mapa médií) v každé odvozené či upravené verzi dat, pokud je to možné.
+3. **Prosíme o zachování odkazů na původní zdroje** (MédiaRating, Mapa médií) v každé odvozené či upravené verzi dat, pokud je to možné.
 
 Toto je zjednodušené vysvětlení. Plné znění licence najdete na [odkazu ODC-BY](https://opendatacommons.org/licenses/by/1-0/).
 
