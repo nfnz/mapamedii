@@ -1,9 +1,10 @@
 # Data pro Mapu médií a MediaRating
 
-V tomto repozitáři najdete dva soubory JSON, které obsahují strojově zpracovatelné výsledky projektu:
+V tomto repozitáři najdete soubory JSON, které obsahují strojově zpracovatelné výsledky projektu:
 
 - [MédiaRating](https://www.nfnz.cz/rating-medii/)
 - [Mapa médií](https://www.nfnz.cz/mapa-medii/)
+- [Dezinformační a konspirační média](https://www.nfnz.cz/dezinformacni-a-konspiracni-media/)
 
 ## Licence
 
@@ -23,6 +24,12 @@ Toto je zjednodušené vysvětlení. Plné znění licence najdete na [odkazu OD
 
 - **mapa_medii.json**  
   Zde najdete informace o struktuře české mediální scény z [Mapy médií](https://www.nfnz.cz/mapa-medii/).
+
+
+- **konspiracni-a-dezinformacni-weby.json**  
+  Zde najdete informace o struktuře české konspirační a dezinformační scény z [Dezinformační a konspirační média](https://www.nfnz.cz/dezinformacni-a-konspiracni-media/).
+
+    
 
 ### Příklad pro použití dat
 
