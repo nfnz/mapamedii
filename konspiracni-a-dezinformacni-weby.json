@@ -1,0 +1,710 @@
+{ "sites": [
+
+{
+    "domain": "cz.sputniknews.com",
+    "alternatedomains": ["sputnikglobe.com"],
+    "name": "Sputnik News",
+    "url": "https://www.nfnz.cz/sputnik-news/",
+    "negatives": [
+        "Jedná se web ruské státní propagandy, který je v EU pod sankcemi."
+    ],
+    "examples": [
+        "Pro-kremelské dezinformační narativy"
+    ]
+},
+
+{
+    "domain": "ac24.cz",
+    "name": "AC24",
+    "url": "https://www.nfnz.cz/konspiracni-server-ac24/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+        "Data o klimatické změně jsou úmyslně falšovány vládami",
+	    "Útok v novozélandském městě Christchurch se nestal / byl to útok pod falešnou vlajkou",
+	    "Bezdrátové připojení 5G je zdraví škodlivé",
+	    "Charlie Hebdo byla cílená akce, která měla vyvolat odpor k muslimům",
+	    "Mimozemšťani přistáli na Zemi a teď jsou zkoumáni v Oblasti 51",
+	    "Pseudohistorické pohledy na původ nebo účel egyptských pyramid",
+	    "11. září 2001: Útoky byla akce naplánovaná a provedená americkou vládou",
+	    "Pizzagate: Hillary Clinton vedla tajnou organizaci pedofilů"
+        
+    ]
+},
+{
+
+    "domain": "aeronet.cz",
+    "name": "Aeronet",
+    "url": "https://www.nfnz.cz/konspiracni-server-aeronet/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+	    "Abú Bakr al-Bagdádí nebyl ve skutečnosti zabit. Jako agent Mossadu byl stažen z operace.",
+	    "Teroristický útok v Halle byl zinscenovaný Mossadem",
+	    "Harvardský a Houstonský projekt – Plán na likvidaci Slovanů",
+	    "Angela Merkel je dcerou Adolfa Hitlera",
+	    "Cášská smlouva o francouzsko-německé spolupráci znamená faktické spojení Německa a Francie v jeden superstát",
+	    "Pizzagate: Hillary Clinton vedla tajnou organizaci pedofilů",
+	    "Skupina Magnum 12 tajně řídí všechny operace tajných služeb USA",
+	    "Synagoga Satanova – Tajná historie světové židovské dominance",
+	    "Hladomor na Ukrajině způsobil úmyslně Západ",
+	    "Útok v novozélandském městě Christchurch se nestal / byl to útok pod falešnou vlajkou",
+	    "Korán není kniha pro modlení, ale návod k zabíjení",
+	    "Let MH17 sestřelil Západ/Ukrajina/Mosad",
+	    "Chemtrail",
+	    "Rockefellerova rodina a konspirační teorie o ní",
+	    "Epidemie eboly byla vytvořena vládou USA ve spolupráci s Centrem pro kontrolu a prevenci nemocí a měla za cíl snížit světovou populaci",
+	    "EU/USA stojí za konfliktem v Náhorním Karabachu, cílem bylo destabilizovat Rusko"       
+    ]
+
+},
+{
+
+    "domain": "aeronet.news",
+    "name": "Aeronet",
+    "url": "https://www.nfnz.cz/konspiracni-server-aeronet/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+        "Abú Bakr al-Bagdádí nebyl ve skutečnosti zabit. Jako agent Mossadu byl stažen z operace.",
+        "Teroristický útok v Halle byl zinscenovaný Mossadem",
+        "Harvardský a Houstonský projekt – Plán na likvidaci Slovanů",
+        "Angela Merkel je dcerou Adolfa Hitlera",
+        "Cášská smlouva o francouzsko-německé spolupráci znamená faktické spojení Německa a Francie v jeden superstát",
+        "Pizzagate: Hillary Clinton vedla tajnou organizaci pedofilů",
+        "Skupina Magnum 12 tajně řídí všechny operace tajných služeb USA",
+        "Synagoga Satanova – Tajná historie světové židovské dominance",
+        "Hladomor na Ukrajině způsobil úmyslně Západ",
+        "Útok v novozélandském městě Christchurch se nestal / byl to útok pod falešnou vlajkou",
+        "Korán není kniha pro modlení, ale návod k zabíjení",
+        "Let MH17 sestřelil Západ/Ukrajina/Mosad",
+        "Chemtrail",
+        "Rockefellerova rodina a konspirační teorie o ní",
+        "Epidemie eboly byla vytvořena vládou USA ve spolupráci s Centrem pro kontrolu a prevenci nemocí a měla za cíl snížit světovou populaci",
+        "EU/USA stojí za konfliktem v Náhorním Karabachu, cílem bylo destabilizovat Rusko"       
+    ]
+
+},
+{
+
+    "domain": "arfa.cz",
+    "name": "Argumenty a fakta",
+    "url": "https://www.nfnz.cz/konspiracni-server-arfa/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+	    "Globální plán depopulace",
+	    "Sametová revoluce v roce 1989 byla domluvená",
+	    "Istanbulská úmluva: Ohrožení mužů a převýchova dětí dle genderové lobby",
+	    "Fašistický/nedemokratický převrat Majdan vyprovokoval Západ (EU,NATO,USA), který teď používá Ukrajinu jako nástroj agrese proti Rusku"
+	]
+
+},
+{
+
+    "domain": "casopis-sifra.cz",
+    "name": "Časopis Šifra",
+    "url": "https://www.nfnz.cz/konspiracni-server-casopis-sifra/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+	       "NASA nikdy nepřistála na Měsíci, vše se natáčelo ve studiu",
+		   "Bilderberg",
+		   "Pseudohistorické pohledy na původ nebo účel egyptských pyramid",
+		   "11. září 2001: Útoky byla akce naplánovaná a provedená americkou vládou",
+		   "Ilumináti",
+		   "Projekt Blue Beam má zmanipulovat naše myšlení"
+	]
+
+},
+{
+
+    "domain": "czechfreepress.cz",
+    "name": "Czech Free Press",
+    "url": "https://www.nfnz.cz/konspiracni-server-czech-free-press/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+	    "Eurabie: Islamizace Evropy",
+	    "Střelba na základní škole Sandy Hook (Connecticut, USA) se nikdy nestala",
+	    "Kalergiho plán má vést k ovládnutí Evropy míšeneckou rasou / sionisty / migranty",
+	    "Evropskou unii založili nacisté a je proto fašistickým zřízením",
+	    "Hladomor na Ukrajině způsobil úmyslně Západ",
+	    "Globální plán depopulace",
+	    "Harvardský a Houstonský projekt – Plán na likvidaci Slovanů",
+	    "Rockefellerova rodina a konspirační teorie o ní",
+	    "Epidemie eboly byla vytvořena vládou USA ve spolupráci s Centrem pro kontrolu a prevenci nemocí a měla za cíl snížit světovou populaci"
+	]
+
+},
+{
+
+    "domain": "cz24.news",
+    "name": "CZ 24 News",
+    "url": "https://www.nfnz.cz/konspiracni-server-cz-24-news/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+		    "Koronavirus je pandemie uměle vytvořená světovou vládou k nastolení Nového světového řádu.",
+		    "Koronavirus je způsoben sítěmí 5G"
+	]
+
+},
+{
+
+    "domain": "infokuryr.cz",
+    "name": "Infokurýr",
+    "url": "https://www.nfnz.cz/infokuryr/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+        "11. září 2001: Útoky byla akce naplánovaná a provedená americkou vládou",
+        "Pizzagate: Hillary Clinton vedla tajnou organizaci pedofilů",
+        "Globální plán depopulace"
+    ]
+
+},
+{
+
+    "domain": "novarepublika.cz",
+    "name": "Nová republika",
+    "url": "https://www.nfnz.cz/konspiracni-server-nova-republika/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+		    "Hladomor na Ukrajině způsobil úmyslně Západ",
+		    "Globální plán depopulace",
+		    "Let MH17 sestřelil Západ/Ukrajina/Mosad",
+		    "Johna F. Kenneyho zabily tajné služby USA",
+		    "Data o klimatické změně jsou úmyslně falšovány vládami"
+
+	]
+
+},{
+
+    "domain": "novarepublika.online",
+    "name": "Nová republika",
+    "url": "https://www.nfnz.cz/konspiracni-server-nova-republika/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+            "Hladomor na Ukrajině způsobil úmyslně Západ",
+            "Globální plán depopulace",
+            "Let MH17 sestřelil Západ/Ukrajina/Mosad",
+            "Johna F. Kenneyho zabily tajné služby USA",
+            "Data o klimatické změně jsou úmyslně falšovány vládami"
+
+    ]
+
+},
+{
+
+    "domain": "outsidermedia.cz",
+    "name": "Outsider Media",
+    "url": "https://www.nfnz.cz/konspiracni-server-outsider-media/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+    "Číňané nepřistáli na odvrácené straně Měsíce",
+    "Evropu tajně řídí skupina G30"
+	]
+
+},
+{
+
+    "domain": "otevrisvoumysl.cz",
+    "name": "Otevři svou mysl",
+    "url": "https://www.nfnz.cz/konspiracni-server-otevri-svou-mysl/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+        "Ilumináti",
+	    "Globální plán depopulace",
+	    "Pizzagate: Hillary Clinton vedla tajnou organizaci pedofilů"
+	]
+
+},
+{
+
+    "domain": "pravdive.eu",
+    "name": "Pravdivě",
+    "url": "https://www.nfnz.cz/konspiracni-server-pravdive/",
+    "negatives": [
+        "Server Pravdive.eu je agregátor článků ze serveru, které šíří dezinformační či konspirační obsah"
+    ],
+    "examples": [
+            "Mimozemské civilizace & ezo témata",   
+            "Pizzagate: Hillary Clinton vedla tajnou organizaci pedofilů",
+            "New World Order teorie"
+   	]
+
+},
+{
+
+    "domain": "protiproud.cz",
+    "name": "Protiproud",
+    "url": "https://www.nfnz.cz/konspiracni-server-protiproud/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+        
+		    "NASA nikdy nepřistála na Měsíci, vše se natáčelo ve studiu",
+		    "QAnon konspirace",
+		    "Bezdrátové připojení 5G je zdraví škodlivé",
+		    "Angela Merkel je dcerou Adolfa Hitlera",
+		    "Istanbulská úmluva: Ohrožení mužů a převýchova dětí dle genderové lobby",
+		    "Pizzagate: Hillary Clinton vedla tajnou organizaci pedofilů",
+		    "Obvinění Ruska z dopingu v atletice byla kampaň informační války proti Rusku , za kterou stál Západ",
+		    "Skupina Magnum 12 tajně řídí všechny operace tajných služeb USA",
+		    "Kalergiho plán má vést k ovládnutí Evropy míšeneckou rasou / sionisty / migranty",
+		    "Birther teorie: Obama je Muslim",
+		    "Z České republiky jsou skrze Člověka v tísni a Prague Civil Society Centre rozvraceny státy východní Evropy",
+		    "Evropu tajně řídí skupina G30",
+		    "Let MH17 sestřelil Západ/Ukrajina/Mosad",
+		    "Chemtrail",
+		    "Projekt Blue Beam má zmanipulovat naše myšlení",
+		    "Rockefellerova rodina a konspirační teorie o ní"
+
+        ]
+
+},
+{
+
+    "domain": "protiproud.info",
+    "name": "Protiproud",
+    "url": "https://www.nfnz.cz/konspiracni-server-protiproud/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+        
+            "NASA nikdy nepřistála na Měsíci, vše se natáčelo ve studiu",
+            "QAnon konspirace",
+            "Bezdrátové připojení 5G je zdraví škodlivé",
+            "Angela Merkel je dcerou Adolfa Hitlera",
+            "Istanbulská úmluva: Ohrožení mužů a převýchova dětí dle genderové lobby",
+            "Pizzagate: Hillary Clinton vedla tajnou organizaci pedofilů",
+            "Obvinění Ruska z dopingu v atletice byla kampaň informační války proti Rusku , za kterou stál Západ",
+            "Skupina Magnum 12 tajně řídí všechny operace tajných služeb USA",
+            "Kalergiho plán má vést k ovládnutí Evropy míšeneckou rasou / sionisty / migranty",
+            "Birther teorie: Obama je Muslim",
+            "Z České republiky jsou skrze Člověka v tísni a Prague Civil Society Centre rozvraceny státy východní Evropy",
+            "Evropu tajně řídí skupina G30",
+            "Let MH17 sestřelil Západ/Ukrajina/Mosad",
+            "Chemtrail",
+            "Projekt Blue Beam má zmanipulovat naše myšlení",
+            "Rockefellerova rodina a konspirační teorie o ní"
+
+        ]
+
+},
+{
+
+    "domain": "pravyprostor.cz",
+    "name": "Pravý prostor",
+    "url": "https://www.nfnz.cz/konspiracni-server-pravy-prostor/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+		    "Data o klimatické změně jsou úmyslně falšovány vládami",
+		    "EU legalizuje pedofílii",
+		    "Česká televize podporuje islamizaci",
+		    "Automatizace a elektronizace mají usnadnit kontrolu nad obyvatelsvem",
+		   " Dánsko je kvůli migrantům na pokraji džihádu, ale nikdo o tom nemluví",
+		    "Kalergiho plán má vést k ovládnutí Evropy míšeneckou rasou / sionisty / migranty"
+
+	]
+
+},
+
+{
+
+    "domain": "prvnizpravy.cz",
+    "name": "První zprávy",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "jihoceskenovinky.cz",
+    "name": "První zprávy - Jihočeské novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "jihomoravskenovinky.cz",
+    "name": "První zprávy - Jihomoravské novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "karlovarskenovinky.cz",
+    "name": "První zprávy - Karlovarské novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "kralovehradeckenovinky.cz",
+    "name": "První zprávy - Královohradecké novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "libereckenovinky.cz",
+    "name": "První zprávy - Liberecké novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "moravskoslezskenovinky.cz",
+    "name": "První zprávy - Moravskoslezské novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "olomouckenovinky.cz",
+    "name": "První zprávy - Olomoucké novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "pardubickenovinky.cz",
+    "name": "První zprávy - Pardubické novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "plzenskenovinky.cz",
+    "name": "První zprávy - Plzeňské novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "prazskenovinky.cz",
+    "name": "První zprávy - Pražské novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "stredoceskenovinky.cz",
+    "name": "První zprávy - Středočeské novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "usteckenovinky.cz",
+    "name": "První zprávy - Ústecké novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "novinkyvysocina.cz",
+    "name": "První zprávy - Novinky Vysočína",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "zlinskenovinky.cz",
+    "name": "První zprávy - Zlínské novinky",
+    "url": "https://www.nfnz.cz/konspiracni-server-prvni-zpravy/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+
+            "Ukrajina je uměle vytvořený stát. Je součástí ruského světa a všichni Ukrajinci jsou Rusové"
+    ]
+
+},
+
+{
+
+    "domain": "skrytapravda.cz",
+    "name": "Skrytá pravda",
+    "url": "https://www.nfnz.cz/konspiracni-server-skryta-pravda/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+  
+    	"Chystá se “slovenský majdan“",
+	    "Hladomor na Ukrajině způsobil úmyslně Západ",
+	    "BIS není kvalitní tajná služba a nedá se jejím závěrům věřit"
+
+  	]
+
+},
+{
+
+    "domain": "slovanskenebe.com",
+    "name": "Slovanské nebe",
+    "url": "https://www.nfnz.cz/konspiracni-server-slovanske-nebe/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+  
+        "Fašistický/nedemokratický převrat Majdan vyprovokoval Západ (EU,NATO,USA), který teď používá Ukrajinu jako nástroj agrese proti Rusku"
+
+    ]
+
+},
+{
+
+    "domain": "svobodny-vysilac.cz",
+    "name": "Svobodný vysílač",
+    "url": "https://www.nfnz.cz/konspiracni-server-svobodny-vysilac/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+  
+        "Synagoga Satanova - Tajná historie světové židovské dominance"
+
+    ]
+
+},
+{
+
+    "domain": "tadesco.org",
+    "name": "Tadesco",
+    "url": "https://www.nfnz.cz/konspiracni-server-tadesco/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+  
+    "Eurabie: Islamizace Evropy",
+    "Angela Merkel je dcerou Adolfa Hitlera",
+    "Rosekruciáni",
+    "Narativy zveličující geomagentický obrat a jeho dopad",
+    "Z České republiky jsou skrze Člověka v tísni a Prague Civil Society Centre rozvraceny státy východní Evropy",
+    "Chemtrail",
+    "Ilumináti",
+    "Harvardský a Houstonský projekt – Plán na likvidaci Slovanů"
+
+  	]
+
+},
+{
+
+    "domain": "tydenikobcanskepravo.cz",
+    "name": "TOP News",
+    "url": "https://www.nfnz.cz/konspiracni-server-top-news/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+  
+	    "11. září 2001: Útoky byla akce naplánovaná a provedená americkou vládou",
+	    "Ilumináti",
+	    "Globální plán depopulace",
+	    "Epidemie eboly byla vytvořena vládou USA ve spolupráci s Centrem pro kontrolu a prevenci nemocí a měla za cíl snížit světovou populaci"
+
+  	]
+
+},
+{
+
+    "domain": "veksvetla.cz",
+    "name": "Věk světla",
+    "url": "https://www.nfnz.cz/konspiracni-server-vek-svetla/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+  
+	    "Globální plán depopulace",
+	    "Svět ovládají reptiliáni a běžní lidé o ničem nevědí",
+	    "Ilumináti"
+
+  	]
+
+},
+{
+
+    "domain": "zvedavec.org",
+    "name": "Zvědavec",
+    "url": "https://www.nfnz.cz/konspiracni-server-zvedavec/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+  
+	    "Rotschildové",
+	    "Narativy rozplétající konspirace kolem smrti Usámy bin Ládina",
+	    "Holocaust se nikdy nestal",
+	    "Kalergiho plán má vést k ovládnutí Evropy míšeneckou rasou / sionisty / migranty",
+	    "Hladomor na Ukrajině způsobil úmyslně Západ"
+
+  	]
+
+},
+{
+
+    "domain": "zvedavec.news",
+    "name": "Zvědavec",
+    "url": "https://www.nfnz.cz/konspiracni-server-zvedavec/",
+    "negatives": [
+        "Web se podílí na šíření dezinformačního či konspiračního obsahu."
+    ],
+    "examples": [
+  
+        "Rotschildové",
+        "Narativy rozplétající konspirace kolem smrti Usámy bin Ládina",
+        "Holocaust se nikdy nestal",
+        "Kalergiho plán má vést k ovládnutí Evropy míšeneckou rasou / sionisty / migranty",
+        "Hladomor na Ukrajině způsobil úmyslně Západ"
+
+    ]
+
+}
+
+
+
+
+
+]}
